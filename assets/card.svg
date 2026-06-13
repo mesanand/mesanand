@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="206" viewBox="0 0 860 206">
+  <metadata id="mefetch-config">eyJ1c2VybmFtZSI6Im1lc2FuYW5kIiwiaG9zdG5hbWUiOiJnaXRodWIiLCJiYWNrZ3JvdW5kIjoiIzBkMTExNyIsImtleWNvbG9yIjoiIzU4YTZmZiIsInRleHRjb2xvciI6IiNjZGQ5ZTUiLCJzaG93c3RhdHMiOnRydWUsImZpZWxkcyI6WyItLS06SW5mbyIsIk9TOldpbmRvd3MiLCJVbml2ZXJzaXR5Ok5vcnRoZWFzdGVybiIsIlJvbGU6Q1MgKyBBSSBTdHVkZW50IiwiQ2x1YjpDbGF1ZGUgQnVpbGRlcnMgQ2x1YiBQcmVzaWRlbnQiXSwiYXNjaWkiOiJAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCVAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAKytAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCMrLCVAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAJTssLCVAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFMqOzosLCsjQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCNTPys7OiwsLCwqI0BAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQCNTJT8rOzo6LCwsLCwsOz9TQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEAjI1MlPz8qKzs7OjosLCwsLCwsLCwsOyolU0BAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQFMlPyo7Ozo6OiwsLCwsLCwsLi4uLi4uLi4uLi4sLDorKj8jQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEAjUz8rOjosLCwsLCwuLi4uLi4uLDoqJSNAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEAjPzs6LCwsLC4uLi4uOipTQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCUrOiwsLi4uOyVAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEA/OiwuLD9AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEAqLCwlQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEA6P0BAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQCpAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAXG5AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBcbkBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFxuQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAIn0=</metadata>
+  <style>
+    .bg        { fill: #0d1117; }
+    .border    { fill: none; stroke: #30363d; stroke-width: 1; }
+    .title     { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .titledash { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .divider   { fill: #8b949e; font-family: monospace; font-size: 12px; font-weight: bold; }
+    .dividash  { fill: #8b949e; font-family: monospace; font-size: 12px; }
+    .sep       { fill: #30363d; }
+    .key       { fill: #58a6ff; font-family: monospace; font-size: 11px; }
+    .val       { fill: #cdd9e5; font-family: monospace; font-size: 11px; }
+    .ascii     { fill: #cdd9e5; font-family: monospace; font-size: 5.8px; }
+    .dot       { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .dots      { fill: #444d56; font-family: monospace; font-size: 11px; }
+    .green     { fill: #3fb950; font-family: monospace; font-size: 11px; }
+    .red       { fill: #f85149; font-family: monospace; font-size: 11px; }
+  </style>
+
+  <rect class="bg" width="860" height="206" rx="8" />
+  <rect class="border" x="0.5" y="0.5" width="859" height="205" rx="8" />
+
+  
+  <text class="ascii" x="150" y="14" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="21" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="28" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="35" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="42" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="49" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="56" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="63" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@++@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="70" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@#+,%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="77" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@%;,,%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="84" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@S*;:,,+#@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="91" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@#S?+;:,,,,*#@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="98" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@#S%?+;::,,,,,,;?S@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="105" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@##S%??*+;;::,,,,,,,,,,;*%S@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="112" text-anchor="middle" xml:space="preserve">@@@@@@@@@@S%?*;;:::,,,,,,,,...........,,:+*?#@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="119" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@#S?+::,,,,,,.......,:*%#@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="126" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@#?;:,,,,.....:*S@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="133" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@%+:,,...;%@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="140" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@?:,.,?@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="147" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@*,,%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="154" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@:?@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="161" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@*@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="168" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="175" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="182" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="189" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+  <text class="ascii" x="150" y="196" text-anchor="middle" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  
+
+  <rect class="sep" x="290" y="12" width="1" height="194" />
+
+  <text class="title" x="308" y="30" textLength="537" lengthAdjust="spacingAndGlyphs"> mesanand@github <tspan class="titledash">-----------------------------------------------------------</tspan></text>
+
+  
+  
+  <text class="divider" x="308" y="47" textLength="537" lengthAdjust="spacingAndGlyphs"> - Info - <tspan class="dividash">------------------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="64" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>OS<tspan class="dot">:</tspan> <tspan class="dots">...............................................................</tspan><tspan class="val">Windows</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="81" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>University<tspan class="dot">:</tspan> <tspan class="dots">..................................................</tspan><tspan class="val">Northeastern</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="98" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Role<tspan class="dot">:</tspan> <tspan class="dots">.....................................................</tspan><tspan class="val">CS + AI Student</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="115" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Club<tspan class="dot">:</tspan> <tspan class="dots">......................................</tspan><tspan class="val">Claude Builders Club President</tspan></text>
+  
+  
+  
+  <text class="divider" x="308" y="132" textLength="537" lengthAdjust="spacingAndGlyphs"> - GitHub Stats - <tspan class="dividash">----------------------------------------------------------</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="149" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Repos<tspan class="dot">:</tspan> <tspan class="dots">.................................................................</tspan><tspan class="val">11</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="166" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Commits<tspan class="dot">:</tspan> <tspan class="dots">..............................................................</tspan><tspan class="val">322</tspan></text>
+  
+  
+  
+  <text class="key" x="308" y="183" textLength="537" lengthAdjust="spacingAndGlyphs"> <tspan class="dot">· </tspan>Lines on GitHub<tspan class="dot">:</tspan> <tspan class="dots">.................................</tspan><tspan class="val">31637 (<tspan class="green">57920++</tspan>, <tspan class="red">26283--</tspan>)</tspan></text>
+  
+  
+
+</svg>

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/card.svg" alt="mefetch card">
+</p>
+
 - 👋 Hi, I’m Mehr Anand
 - 👀 I’m interested in: Hydroponics, 3D Printing, Photography !
 - 🌱 Learning Python, SQL, AWS, Java, React.js, Discord Bots, and more!
